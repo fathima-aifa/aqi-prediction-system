@@ -1,11 +1,9 @@
-# aqi-prediction-system
-Machine learning project for predicting Air Quality Index (AQI) using data analysis, model building, and a Streamlit web application.
 
-# 🌍 AQI Prediction System
+# AQI Prediction System
 
 ## 📌 Introduction
+This project is a machine learning-based Air Quality Index (AQI) prediction system. It uses historical weather and pollution data to predict AQI values based on user input. The dataset used for this project is sourced from Kaggle (Delhi Weather AQI dataset).
 
-This project is a machine learning-based Air Quality Index (AQI) prediction system. It uses historical weather and pollution data to predict AQI values based on user input. A Streamlit web application is also included for real-time prediction.
 
 ---
 
@@ -33,7 +31,7 @@ A pipeline was used to combine preprocessing and model training.
 
 ---
 
-## 📁 Files in This Repository
+## 📁 Repository Structure
 
 - `eda_analysis.ipynb` → Exploratory data analysis and visualization  
 - `model_building.ipynb` → Data preprocessing, model training, and evaluation  
