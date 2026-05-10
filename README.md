@@ -1,7 +1,7 @@
 
 # AQI Prediction System
 
-## 📌 Introduction
+##  Introduction
 This project is a machine learning-based Air Quality Index (AQI) prediction system. It uses historical weather and pollution data to predict AQI values based on user input. The dataset used for this project is sourced from Kaggle (Delhi Weather AQI dataset).
 
 
@@ -19,7 +19,7 @@ This project is a machine learning-based Air Quality Index (AQI) prediction syst
 
 ---
 
-## 🧠 Machine Learning Models Used
+##  Machine Learning Models Used
 
 - Linear Regression  
 - Decision Tree Regressor  
